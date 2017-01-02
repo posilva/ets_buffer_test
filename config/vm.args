@@ -1,0 +1,6 @@
+-sname ets_buffer_test
+
+-setcookie ets_buffer_test_cookie
+
++K true
++A30

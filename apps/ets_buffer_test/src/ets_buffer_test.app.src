@@ -1,0 +1,17 @@
+{application, ets_buffer_test,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { ets_buffer_test_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    epocxy
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+ ]}.
